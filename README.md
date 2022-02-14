@@ -1,4 +1,4 @@
-### Hi there 👋
+### Do you know how they say "Hello!" in Australia?
 ![puppy](https://c.tenor.com/Qig8i0b3ANkAAAAM/dog-cute.gif)
 
 <!--
