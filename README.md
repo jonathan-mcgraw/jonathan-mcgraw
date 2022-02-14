@@ -1,5 +1,5 @@
 ### Hi there 👋
-![] (https://c.tenor.com/jCmPqgkv0vQAAAAC/hello.gif)
+![bear] (https://c.tenor.com/jCmPqgkv0vQAAAAC/hello.gif)
 
 <!--
 **jonathan-mcgraw/jonathan-mcgraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
