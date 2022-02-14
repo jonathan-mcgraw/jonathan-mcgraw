@@ -1,5 +1,5 @@
 <center>### Do you know how they say "Hello!" in Australia?</center>
-<center>![puppy](https://c.tenor.com/Qig8i0b3ANkAAAAM/dog-cute.gif)</center>
+![puppy](https://c.tenor.com/Qig8i0b3ANkAAAAM/dog-cute.gif)
 
 <!--
 **jonathan-mcgraw/jonathan-mcgraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
