@@ -21,8 +21,10 @@ yup yup
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 
+</br>
 <h3 align="left" dir="auto">Connect with me:</h3>
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][https://www.linkedin.com/in/jonathan-mcgraw]
+<img align="left" href="https://www.linkedin.com/in/jonathan-mcgraw" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="26px"/>
+
 
 <!--
 **jonathan-mcgraw/jonathan-mcgraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
