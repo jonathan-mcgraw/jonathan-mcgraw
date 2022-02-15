@@ -8,6 +8,7 @@ yup yup
 ![](https://komarev.com/ghpvc/?username=jonathan-mcgraw&style=palstic)
 - 🔭 I’m currently working on life... It's a toughy
 - 🌱 I’m currently learning everything 🤣
+- 🚀 Goals for 2022: Accept a leadership position with a company who's goal is to automate laboratory processes
 - 📫 How to reach me: jonathan.e.mcgraw@gmail.com
 
 </br>
