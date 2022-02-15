@@ -1,6 +1,7 @@
-<h1 align="center" dir="auto">### Hello 👋 I'm Jon
+<h1 align="center" dir="auto">Hello 👋 I'm Jon
 
-![puppy](https://c.tenor.com/Qig8i0b3ANkAAAAM/dog-cute.gif)
+![e4213d7f873c48d080390c67790ea36c-0001](https://user-images.githubusercontent.com/24931398/154011748-ea9a15c4-84d7-4eb6-b4b7-cef805bae9cb.jpg)
+
 
 <!--
 **jonathan-mcgraw/jonathan-mcgraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
