@@ -1,4 +1,4 @@
-### Do you know how they say "Hello!" in Australia?
+<h1 align="center" dir="auto">### Hello 👋 I'm Jon
 ![puppy](https://c.tenor.com/Qig8i0b3ANkAAAAM/dog-cute.gif)
 
 <!--
