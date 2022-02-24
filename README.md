@@ -3,8 +3,6 @@
 <h1 align="center" dir="auto">Hello 👋 I'm Jon</h1>
 <h4 align="center" dir="auto"> A data scientist with a background in medical laboratory, analytical chemistry, and department management.</h3>
 
-yup yup
-
 ![](https://komarev.com/ghpvc/?username=jonathan-mcgraw&style=palstic)
 - 🔭 I’m currently working on life... It's a toughy
 - 🌱 I’m currently learning everything 🤣
