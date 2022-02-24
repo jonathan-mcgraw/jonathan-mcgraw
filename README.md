@@ -3,6 +3,9 @@
 <h1 align="center" dir="auto">Hello 👋 I'm Jon</h1>
 <h4 align="center" dir="auto"> A data scientist with a background in medical laboratory, analytical chemistry, and department management.</h3>
 
+I am the director of Xylia Technology, focusing on development ATR-FTIR and XRF technologies. I have 16 years of experience as a medical laboratory technologist in the fields of chemistry, microbiology, hematology, serology and immunology. I am currently attending Lambda to expand my knowledge in the field of data science, machine engineering, machine learning, and artificial intelligence. It is my goal to combine AI with the medical and analytical fields to increase accuracy and effectiveness in testing methodologies.
+
+
 ![](https://komarev.com/ghpvc/?username=jonathan-mcgraw&style=palstic)
 - 🔭 I’m currently working on life... It's a toughy
 - 🌱 I’m currently learning everything 🤣
